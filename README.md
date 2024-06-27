@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FilledEther20
+### 👋 Hi, I’m @FilledEther20
 - 👀 I’m passionate about web development and occasionally delve into optimization problems in machine learning, focusing on research involving metaheuristic algorithms.
 - 🌱 Currently, I’m learning Golang and exploring machine learning models.
 - 💞️ I’m looking to collaborate on MERN stack projects and research-oriented optimization problems using Python.
