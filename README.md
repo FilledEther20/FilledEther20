@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ether. Just a guy learning to build.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filledether20&label=Profile%20views&color=0e75b6&style=flat" alt="filledether20" /> </p>
-
+<h1 align="center">Hi 👋, I'm Ether.</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filledether20" alt="filledether20" /></a> </p>
 
 
