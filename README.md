@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chaitanya</h1>
+<h1 align="center">Hi 👋, I'm Ether. Just a guy learning to build.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filledether20&label=Profile%20views&color=0e75b6&style=flat" alt="filledether20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filledether20" alt="filledether20" /></a> </p>
 
-- 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **gairolachaitanya@gmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/rv44ixsj3rea1gs2833h9/Resume_CG.pdf?rlkey=m4n3904k43ta3irdz3te37fj8&e=1&st=wikbd872&dl=0](https://www.dropbox.com/scl/fi/rv44ixsj3rea1gs2833h9/Resume_CG.pdf?rlkey=m4n3904k43ta3irdz3te37fj8&e=1&st=wikbd872&dl=0)
+- 📫 How to reach me <a href="https://linkedin.com/in/www.linkedin.com/in/chaitanya-gairola-cg345" target="blank">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
