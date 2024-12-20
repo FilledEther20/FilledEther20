@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ether.</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filledether20" alt="filledether20" /></a> </p>
-
-[![@filledether20's Holopin board](https://holopin.io/api/user/board?user=filledether20)](https://holopin.io/@filledether20)
-
-- 📫To reach me <a href="https://linkedin.com/in/www.linkedin.com/in/chaitanya-gairola-cg345" target="blank">mail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filledether20&show_icons=true&locale=en&layout=compact" alt="filledether20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filledether20&show_icons=true&locale=en" alt="filledether20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filledether20&" alt="filledether20" /></p>
 
 
