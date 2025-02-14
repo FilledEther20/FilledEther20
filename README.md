@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ether.</h1>
+# Hello 👋  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/chaitanya-gairola-cg345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chaitanya-gairola-cg345" height="30" width="40" /></a>
-</p>
+A Human by day ☼ and an better Human by night ☾ 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Currently building: LogPsi (a second brain app)  
+- Researching: **Network Intrusion Detection using Metaheuristic Algorithms**  
+- Tech Stack: **Golang, JavaScript, React, TypeScript, Python**  
+- Interests: **AI, Distributed Systems, Web Development**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filledether20&show_icons=true&locale=en&layout=compact" alt="filledether20" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filledether20&show_icons=true&locale=en" alt="filledether20" /></p>
-
-
+- Ping me about **ML, Optimization, Backend Systems, and Scalable Architecture**  
+- Exploring new challenges & always up for a good tech discussion!  
